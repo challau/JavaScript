@@ -2,7 +2,6 @@
  * Data Types
  */
 
-
 /** String */
 // let useName = "uday kumar";
 // console.log(typeof useName);
@@ -37,8 +36,8 @@
 // console.log(typeof noValue);
 
 /** Object */
-// const personDetails = {name : "Uday", age : 99, education : "Engg"}
-// console.log(typeof personDetails)
+const personDetails = {name : "Uday", age : 99, education : "Engg"}
+console.log(typeof personDetails)
 
 
 const arrayOfNumbers = [1,2,3,4,5];

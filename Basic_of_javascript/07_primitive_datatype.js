@@ -24,7 +24,6 @@
 
 // console.log(name); // Uday
 
-
 // 2. Number
 // Stores integers and floating-point numbers
 // let age = 21;
@@ -48,7 +47,6 @@
 // console.log(salary); // undefined
 
 
-
 // 5. Null
 // Represents an intentionally empty value.
 
@@ -57,10 +55,10 @@
 
 
 // 6. BigInt
-// Stores integers beyond the safe integer range of Number.
-// let bigNumber = 9007199254740993n;
+// Stores integers beyond the safe integer range of Number. // 2 ^ 53 - 1
+let bigNumber = 9007199254740993n;
 
-// console.log(typeof bigNumber); // bigint
+console.log(typeof bigNumber); // bigint
 
 
 
